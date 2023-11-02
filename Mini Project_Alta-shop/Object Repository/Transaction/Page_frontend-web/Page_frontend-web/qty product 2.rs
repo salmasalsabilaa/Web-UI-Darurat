@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>qty product 2</name>
+   <tag></tag>
+   <elementGuidId>cb46b6ef-9e22-41d8-8594-1e099be6ba40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='order-85537']/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#order-85537 > div.v-list-item__icon > span.mx-3.label-quantity</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6a5c2bba-8c0a-45e7-84e8-5f7f056ac58a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mx-3 label-quantity</value>
+      <webElementGuid>82bf2c86-abfc-4e29-bcd5-71c927f4d0d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>da245f74-1bc5-428d-91cd-f6267312c991</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;order-85537&quot;)/div[@class=&quot;v-list-item__icon&quot;]/span[@class=&quot;mx-3 label-quantity&quot;]</value>
+      <webElementGuid>11cebf40-091b-42b4-89f8-129e7a8dc504</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='order-85537']/div[2]/span</value>
+      <webElementGuid>c6ef6abd-bef9-4a2d-810b-fe2e72118a6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[2]/following::span[1]</value>
+      <webElementGuid>16f0469b-eda7-4442-922b-a3f088e69a21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[2]/preceding::span[1]</value>
+      <webElementGuid>4d60c77d-4a1a-4427-86fd-5530c2dadfce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Qty'])[1]/preceding::span[2]</value>
+      <webElementGuid>f621a7d7-e85a-4fb2-bc4f-fcb917d74e50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/span</value>
+      <webElementGuid>3fe39e33-6621-48d0-a190-66dec0b29b1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '1' or . = '1')]</value>
+      <webElementGuid>96e32119-cb66-4b1b-a491-16925502ad42</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
